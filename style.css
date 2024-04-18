@@ -1,0 +1,18 @@
+BODY		{ COLOR: #000000; FONT-FAMILY: Arial,Helvetica,Univers,Zurich BT; FONT-SIZE: 11px }
+P			{ COLOR: #000000; FONT-FAMILY: Arial,Helvetica,Univers,Zurich BT; FONT-SIZE: 11px }
+TD			{ COLOR: #000000; FONT-FAMILY: Arial,Helvetica,Univers,Zurich BT; FONT-SIZE: 11px }
+TH			{ COLOR: #000000; background: #cccccc; font: bold 11px Arial,Helvetica,Univers,Zurich BT;}
+BR			{ COLOR: #000000; FONT-FAMILY: Arial,Helvetica,Univers,Zurich BT; FONT-SIZE: 11px }
+.links		{ FONT-FAMILY: Arial,Helvetica,Univers,Zurich BT; FONT-SIZE: 11px; COLOR: brown; } 
+a			{ FONT-FAMILY: Arial,Helvetica,Univers,Zurich BT; FONT-SIZE: 11px }
+input, select, textarea, button, form, submit { font: 11px Arial,Helvetica,Univers,Zurich BT;} 
+.tit		{ FONT-FAMILY: Arial,Helvetica,Univers,Zurich BT; FONT-SIZE: 8px } 
+.titulo	{ COLOR: #005291; FONT-FAMILY: Arial,Helvetica,Univers,Zurich BT; FONT-SIZE: 16px } 
+.fh		{ 	font: 8pt Arial,Helvetica,Univers,Zurich BT; color:#000000; border:solid 1px #909090; background-color:#ffffff; text-align:right }
+
+p font b 	{	font: 16px Arial Black,Arial,Verdana,Helvetica, sanserif; color: #664600; background-color:#F4D7A4; width:75%; 
+				letter-spacing:-1px; border-top:1px solid #664600; border-bottom:1px solid #664600; padding-left:20px; padding-right:100px;text-align:left;}
+
+a:hover { color: #3399ff; }
+.bot		{	font: bold 10px Verdana, Arial, Helvetica, sanserif; color:#ffffff; border:1px solid  #31319C;
+				background-color:#31319C; background-image:url(./imgs/10bg2.gif); padding-top:0px; padding-bottom:-1px; margin:0px; 	}

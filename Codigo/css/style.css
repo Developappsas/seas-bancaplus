@@ -1,0 +1,41 @@
+@import url("./bootstrap.css");
+
+body {
+	font-family: Arial;
+	font-size: 11px;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+table, td, th {
+	padding: 2px;
+}
+td {
+	font-family: Arial;
+	font-size: 11px;
+}
+th {
+	font: bold 11px Arial;
+	background: #1F4C78;
+	text-align :center;
+	font-weight: bold;
+	color: white;
+}
+.td_peq {
+	font-family: Arial;
+	font-size: 9px;
+}
+.times {
+	font-family: Times;
+	font-size: 11px;
+}
+.times_peq {
+	font-family: Times;
+	font-size: 11px;
+}
+
+.texto_factura {
+    font-family: Arial;
+	font-size: 11px;
+}

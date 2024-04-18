@@ -1,0 +1,1948 @@
+<CIFIN archivo="20102021080630812_521525_186430593.xml">
+	<Tercero>
+		<IdentificadorLinea>47125833</IdentificadorLinea>
+		<TipoIdentificacion>C.C.</TipoIdentificacion>
+		<CodigoTipoIndentificacion>1</CodigoTipoIndentificacion>
+		<NumeroIdentificacion>1010195804</NumeroIdentificacion>
+		<NombreTitular>GOMEZ ZABALETA SANDY CAROLINA</NombreTitular>
+		<NombreCiiu />
+		<LugarExpedicion>BOGOTA D.C.</LugarExpedicion>
+		<FechaExpedicion>26/01/2009</FechaExpedicion>
+		<Estado>VIGENTE</Estado>
+		<NumeroInforme>01864305930183874808</NumeroInforme>
+		<EstadoTitular />
+		<RangoEdad>25-30</RangoEdad>
+		<CodigoCiiu />
+		<CodigoDepartamento>11</CodigoDepartamento>
+		<CodigoMunicipio>1</CodigoMunicipio>
+		<Fecha>20/10/2021</Fecha>
+		<Hora>08:06:30</Hora>
+		<Entidad>APCT KREDIT PLUS S.A.S.</Entidad>
+		<RespuestaConsulta>02</RespuestaConsulta>
+		<Consolidado>
+			<ResumenPrincipal>
+				<Registro>
+					<PaqueteInformacion>Sector Financiero</PaqueteInformacion>
+					<NumeroObligaciones>1</NumeroObligaciones>
+					<TotalSaldo>2103</TotalSaldo>
+					<ParticipacionDeuda>93</ParticipacionDeuda>
+					<NumeroObligacionesDia>0</NumeroObligacionesDia>
+					<SaldoObligacionesDia>0</SaldoObligacionesDia>
+					<CuotaObligacionesDia>0</CuotaObligacionesDia>
+					<CantidadObligacionesMora>1</CantidadObligacionesMora>
+					<SaldoObligacionesMora>2103</SaldoObligacionesMora>
+					<CuotaObligacionesMora>2103</CuotaObligacionesMora>
+					<ValorMora>1667</ValorMora>
+				</Registro>
+				<Registro>
+					<PaqueteInformacion>Sector Real</PaqueteInformacion>
+					<NumeroObligaciones>1</NumeroObligaciones>
+					<TotalSaldo>148</TotalSaldo>
+					<ParticipacionDeuda>7</ParticipacionDeuda>
+					<NumeroObligacionesDia>1</NumeroObligacionesDia>
+					<SaldoObligacionesDia>148</SaldoObligacionesDia>
+					<CuotaObligacionesDia>31</CuotaObligacionesDia>
+					<CantidadObligacionesMora>0</CantidadObligacionesMora>
+					<SaldoObligacionesMora>0</SaldoObligacionesMora>
+					<CuotaObligacionesMora>0</CuotaObligacionesMora>
+					<ValorMora>0</ValorMora>
+				</Registro>
+				<Registro>
+					<PaqueteInformacion>Subtotal Principal</PaqueteInformacion>
+					<NumeroObligaciones>2</NumeroObligaciones>
+					<TotalSaldo>2251</TotalSaldo>
+					<ParticipacionDeuda>100</ParticipacionDeuda>
+					<NumeroObligacionesDia>1</NumeroObligacionesDia>
+					<SaldoObligacionesDia>148</SaldoObligacionesDia>
+					<CuotaObligacionesDia>31</CuotaObligacionesDia>
+					<CantidadObligacionesMora>1</CantidadObligacionesMora>
+					<SaldoObligacionesMora>2103</SaldoObligacionesMora>
+					<CuotaObligacionesMora>2103</CuotaObligacionesMora>
+					<ValorMora>1667</ValorMora>
+				</Registro>
+			</ResumenPrincipal>
+			<Registro>
+				<PaqueteInformacion>Total</PaqueteInformacion>
+				<NumeroObligaciones>2</NumeroObligaciones>
+				<TotalSaldo>2251</TotalSaldo>
+				<ParticipacionDeuda>100</ParticipacionDeuda>
+				<NumeroObligacionesDia>1</NumeroObligacionesDia>
+				<SaldoObligacionesDia>148</SaldoObligacionesDia>
+				<CuotaObligacionesDia>31</CuotaObligacionesDia>
+				<CantidadObligacionesMora>1</CantidadObligacionesMora>
+				<SaldoObligacionesMora>2103</SaldoObligacionesMora>
+				<CuotaObligacionesMora>2103</CuotaObligacionesMora>
+				<ValorMora>1667</ValorMora>
+			</Registro>
+		</Consolidado>
+		<CuentasVigentes>
+			<Obligacion>
+				<PaqueteInformacion>0023</PaqueteInformacion>
+				<IdentificadorLinea>82151305</IdentificadorLinea>
+				<TipoContrato>AHO-COLECTIVA</TipoContrato>
+				<TipoEntidad>BCO</TipoEntidad>
+				<NombreEntidad>DE BOGOTA</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>CARRERA 11 NO.68</Sucursal>
+				<NumeroObligacion>486988</NumeroObligacion>
+				<EstadoObligacion>INACT</EstadoObligacion>
+				<FechaApertura>24/08/2012</FechaApertura>
+				<FechaTerminacion />
+				<ValorInicial />
+				<Comportamientos>IIIIIIIIIIII</Comportamientos>
+				<FechaCorte>31/08/2020</FechaCorte>
+				<FechaPermanencia />
+				<ChequesDevueltos />
+				<DiasCartera />
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0023</PaqueteInformacion>
+				<IdentificadorLinea>137911114</IdentificadorLinea>
+				<TipoContrato>AHO-INDIVIDUAL</TipoContrato>
+				<TipoEntidad>BCO</TipoEntidad>
+				<NombreEntidad>BBVA COLOMBIA</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>INDUMIL</Sucursal>
+				<NumeroObligacion>572924</NumeroObligacion>
+				<EstadoObligacion>INACT</EstadoObligacion>
+				<FechaApertura>09/08/2018</FechaApertura>
+				<FechaTerminacion />
+				<ValorInicial />
+				<Comportamientos>IIIIIIIIIIII</Comportamientos>
+				<FechaCorte>31/08/2020</FechaCorte>
+				<FechaPermanencia />
+				<ChequesDevueltos />
+				<DiasCartera />
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0023</PaqueteInformacion>
+				<IdentificadorLinea>137190633</IdentificadorLinea>
+				<TipoContrato>AHO-INDIVIDUAL</TipoContrato>
+				<TipoEntidad>BCO</TipoEntidad>
+				<NombreEntidad>DAVIVIENDA S.A.</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>OF.GALERIAS SUC.</Sucursal>
+				<NumeroObligacion>574551</NumeroObligacion>
+				<EstadoObligacion>INACT</EstadoObligacion>
+				<FechaApertura>30/07/2018</FechaApertura>
+				<FechaTerminacion />
+				<ValorInicial />
+				<Comportamientos>IIIIIIIIIIII</Comportamientos>
+				<FechaCorte>31/08/2020</FechaCorte>
+				<FechaPermanencia />
+				<ChequesDevueltos />
+				<DiasCartera />
+			</Obligacion>
+		</CuentasVigentes>
+		<SectorFinancieroEnMora>
+			<Obligacion>
+				<PaqueteInformacion>0006</PaqueteInformacion>
+				<IdentificadorLinea>197085430</IdentificadorLinea>
+				<TipoContrato>OTR</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>OACE</TipoEntidad>
+				<NombreEntidad>GCA-GRUPO CONSULTOR ANDINO S.A</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>BANCO COLPATRIA</Sucursal>
+				<NumeroObligacion>578970</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>CAST</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>CCAR</LineaCredito>
+				<Periodicidad>MEN</Periodicidad>
+				<FechaApertura>28/01/2018</FechaApertura>
+				<FechaTerminacion>28/01/2018</FechaTerminacion>
+				<Calificacion>K</Calificacion>
+				<ValorInicial>1667</ValorInicial>
+				<SaldoObligacion>2103</SaldoObligacion>
+				<ValorMora>1667</ValorMora>
+				<ValorCuota>2103</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>0</CuotasCanceladas>
+				<TipoGarantia></TipoGarantia>
+				<CubrimientoGarantia>0</CubrimientoGarantia>
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>N |N |N |N |N |1 |2 |3 |4 |5 |X |1 |2 |3 |4 |5 |14|14|14|14|14|14|14|14|
+				</Comportamientos>
+				<ParticipacionDeuda>100</ParticipacionDeuda>
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/08/2020</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera>BCO</TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera>COLPATRIA RED MULTIBANCA COLPA</EntidadOriginadoraCartera>
+				<TipoPago />
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>1</NumeroCuotasPactadas>
+				<NumeroCuotasMora>1</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+		</SectorFinancieroEnMora>
+		<SectorFinancieroExtinguidas>
+			<Obligacion>
+				<PaqueteInformacion>0006</PaqueteInformacion>
+				<IdentificadorLinea>127165035</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>BCO</TipoEntidad>
+				<NombreEntidad>BANCO PICHINCHA S.A.</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>C.P. OPERACIONES</Sucursal>
+				<NumeroObligacion>876724</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>ROTA</LineaCredito>
+				<Periodicidad>MNV</Periodicidad>
+				<FechaApertura>10/12/2014</FechaApertura>
+				<FechaTerminacion>10/12/2019</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>2620</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>6</CuotasCanceladas>
+				<TipoGarantia></TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |R |R |
+				</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>30/09/2019</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>0</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0002</PaqueteInformacion>
+				<IdentificadorLinea>53160245</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>BCO</TipoEntidad>
+				<NombreEntidad>DE BOGOTA</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PLAZA DE LAS AME</Sucursal>
+				<NumeroObligacion>916969</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>CVOL</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>TCR</LineaCredito>
+				<FechaApertura>02/05/2016</FechaApertura>
+				<ValorInicial>2500</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<CuotasCanceladas></CuotasCanceladas>
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<FechaCorte>31/01/2017</FechaCorte>
+				<ModoExtincion></ModoExtincion>
+				<FechaPago></FechaPago>
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones>0</NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<MarcaTarjeta>MAS</MarcaTarjeta>
+				<ClaseTarjeta>STA</ClaseTarjeta>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas></NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0002</PaqueteInformacion>
+				<IdentificadorLinea>52590091</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>COMF</TipoEntidad>
+				<NombreEntidad>TUYA S.A. COMPA�IA DE FINANC</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>REGIONAL BOGOTA</Sucursal>
+				<NumeroObligacion>246852</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>CVOL</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>TCR</LineaCredito>
+				<FechaApertura>11/04/2016</FechaApertura>
+				<ValorInicial>1500</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<CuotasCanceladas></CuotasCanceladas>
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | | |N |X |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<FechaCorte>31/07/2016</FechaCorte>
+				<ModoExtincion></ModoExtincion>
+				<FechaPago></FechaPago>
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones>0</NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<MarcaTarjeta>EXI</MarcaTarjeta>
+				<ClaseTarjeta>CLA</ClaseTarjeta>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas></NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0002</PaqueteInformacion>
+				<IdentificadorLinea>53136203</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>BCO</TipoEntidad>
+				<NombreEntidad>DE BOGOTA</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PLAZA DE LAS AME</Sucursal>
+				<NumeroObligacion>842818</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>CVOL</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>TCR</LineaCredito>
+				<FechaApertura>02/05/2016</FechaApertura>
+				<ValorInicial>2500</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<CuotasCanceladas></CuotasCanceladas>
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<FechaCorte>31/01/2017</FechaCorte>
+				<ModoExtincion></ModoExtincion>
+				<FechaPago></FechaPago>
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones>0</NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<MarcaTarjeta>CRE</MarcaTarjeta>
+				<ClaseTarjeta>CLA</ClaseTarjeta>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas></NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0002</PaqueteInformacion>
+				<IdentificadorLinea>50241203</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>BCO</TipoEntidad>
+				<NombreEntidad>BANCOLOMBIA</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>LAS GRANJAS</Sucursal>
+				<NumeroObligacion>183941</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>CVOL</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>TCR</LineaCredito>
+				<FechaApertura>14/10/2015</FechaApertura>
+				<ValorInicial>1200</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<CuotasCanceladas></CuotasCanceladas>
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | |N |N |N |N |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<FechaCorte>29/10/2016</FechaCorte>
+				<ModoExtincion></ModoExtincion>
+				<FechaPago></FechaPago>
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones />
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<MarcaTarjeta>MAS</MarcaTarjeta>
+				<ClaseTarjeta>CLA</ClaseTarjeta>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas></NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>128665702</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>098751</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>CONS</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>13/02/2015</FechaApertura>
+				<FechaTerminacion>15/03/2015</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>25</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>0</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | | | |N |R |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>30/03/2015</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago />
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas />
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado />
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>170660577</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>146511</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>CONS</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>15/12/2017</FechaApertura>
+				<FechaTerminacion>28/02/2018</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>100</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>6</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | | | |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>28/02/2018</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>6</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>170660576</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>146378</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>CONS</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>15/12/2017</FechaApertura>
+				<FechaTerminacion>28/02/2018</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>55</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>3</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | | | |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>28/02/2018</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>3</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>170660575</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>146234</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>CONS</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>15/12/2017</FechaApertura>
+				<FechaTerminacion>28/02/2018</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>90</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>4</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | | | |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>28/02/2018</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>4</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>126171875</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>096823</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>CONS</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>04/12/2014</FechaApertura>
+				<FechaTerminacion>15/03/2015</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>45</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>1</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | |N |N |R |R |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>15/03/2015</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago />
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas />
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado />
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>163366144</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>140710</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>CONS</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>15/09/2017</FechaApertura>
+				<FechaTerminacion>30/10/2017</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>33</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>2</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | | | | |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/10/2017</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>2</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>119075554</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>088959</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>CONS</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>06/03/2014</FechaApertura>
+				<FechaTerminacion>15/05/2014</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>87</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>4</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | |N |N |R |R |R |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>30/05/2014</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago />
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas />
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado />
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>128665703</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>098885</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>CONS</LineaCredito>
+				<Periodicidad>VNC</Periodicidad>
+				<FechaApertura>13/02/2015</FechaApertura>
+				<FechaTerminacion>15/03/2015</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>25</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>1</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | | | |N |R |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>15/03/2015</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago />
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas />
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado />
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>143918126</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>115461</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>13/04/2016</FechaApertura>
+				<FechaTerminacion>28/02/2018</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>3000</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>48</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>|N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |
+				</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>28/02/2018</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>48</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>151267328</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>121756</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>31/08/2016</FechaApertura>
+				<FechaTerminacion>30/12/2016</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>200</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>0</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/12/2016</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>7</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>151270172</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>123346</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>26/09/2016</FechaApertura>
+				<FechaTerminacion>15/10/2016</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>49</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>0</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | | | | |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/10/2016</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>2</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>151272086</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>125024</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>14/10/2016</FechaApertura>
+				<FechaTerminacion>15/03/2018</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>5480</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>48</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/03/2018</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>48</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>157058359</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>129954</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>31/01/2017</FechaApertura>
+				<FechaTerminacion>15/10/2017</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>500</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>24</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>30/09/2017</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>24</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>160235817</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>134148</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>10/05/2017</FechaApertura>
+				<FechaTerminacion>30/03/2018</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>1000</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>50</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | |N |N |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/03/2018</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>50</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>163366142</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>140104</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>07/09/2017</FechaApertura>
+				<FechaTerminacion>30/03/2018</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>800</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>55</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/03/2018</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>55</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>163378907</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>143948</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>02/11/2017</FechaApertura>
+				<FechaTerminacion>30/03/2018</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>1000</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>36</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/03/2018</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>36</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>171387209</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>148935</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>28/02/2018</FechaApertura>
+				<FechaTerminacion>30/03/2018</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>2000</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>40</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | | | | | | | |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/03/2018</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>40</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>142098769</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>114040</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>02/03/2016</FechaApertura>
+				<FechaTerminacion>30/10/2016</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>400</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>0</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>N |R |R |R |R |R |R |R |R |R |R |R |R |R |R |R |R |R |R |R |R |R |R |N |
+				</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>15/11/2016</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago />
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas />
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado />
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>139564030</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>110257</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>09/12/2015</FechaApertura>
+				<FechaTerminacion>15/10/2016</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>300</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>0</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | |N |N |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/10/2016</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>18</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>136971510</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>105932</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>02/09/2015</FechaApertura>
+				<FechaTerminacion>30/11/2015</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>200</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>3</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | |N |N |R |R |R |R |R |R |R |R |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>30/11/2015</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago />
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas />
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado />
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>134651223</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>104213</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>14/07/2015</FechaApertura>
+				<FechaTerminacion>15/03/2016</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>700</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>15</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/03/2016</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>15</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>133547927</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>103019</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>03/06/2015</FechaApertura>
+				<FechaTerminacion>15/06/2016</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>600</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>14</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | |N |N |N |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>31/05/2016</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>14</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>128672402</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>099977</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>16/03/2015</FechaApertura>
+				<FechaTerminacion>15/04/2016</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>1200</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>25</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | |N |N |N |N |N |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>30/04/2016</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>25</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>126171874</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>095653</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>05/11/2014</FechaApertura>
+				<FechaTerminacion>30/04/2015</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>150</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>9</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | |N |N |N |N |R |R |R |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>30/04/2015</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>10</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>119127677</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>091287</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>20/05/2014</FechaApertura>
+				<FechaTerminacion>15/11/2014</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>400</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>10</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | |N |N |N |N |N |N |R |R |R |R |R |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>15/12/2014</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago />
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas />
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado />
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>120342223</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>092060</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>16/07/2014</FechaApertura>
+				<FechaTerminacion>15/06/2015</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>500</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>20</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | |N |N |N |N |X |N |N |N |N |N |N |R |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>15/07/2015</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas>22</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado>NO</Reestructurado>
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>115276948</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>087551</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>22/01/2014</FechaApertura>
+				<FechaTerminacion>15/05/2014</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>200</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>6</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | | | |N |N |N |N |R |R |R |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>15/06/2014</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago />
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas />
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado />
+			</Obligacion>
+			<Obligacion>
+				<PaqueteInformacion>0021</PaqueteInformacion>
+				<IdentificadorLinea>119116929</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>NVIG</EstadoContrato>
+				<TipoEntidad>FEMP</TipoEntidad>
+				<NombreEntidad>FEQSA - FONDO DE EMPLEADOS DE</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>PRINCIPAL</Sucursal>
+				<NumeroObligacion>089585</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>SALD</EstadoObligacion>
+				<ModalidadCredito>CONS</ModalidadCredito>
+				<LineaCredito>LBLI</LineaCredito>
+				<Periodicidad>QUI</Periodicidad>
+				<FechaApertura>03/04/2014</FechaApertura>
+				<FechaTerminacion>30/10/2014</FechaTerminacion>
+				<Calificacion></Calificacion>
+				<ValorInicial>200</ValorInicial>
+				<SaldoObligacion>0</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>0</ValorCuota>
+				<TipoMoneda>ML</TipoMoneda>
+				<CuotasCanceladas>9</CuotasCanceladas>
+				<TipoGarantia>PLIB</TipoGarantia>
+				<CubrimientoGarantia />
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | |N |N |N |N |N |X |R |R |R |R |R |R |N |</Comportamientos>
+				<ParticipacionDeuda />
+				<ProbabilidadNoPago>0</ProbabilidadNoPago>
+				<FechaCorte>30/10/2014</FechaCorte>
+				<ModoExtincion />
+				<FechaPago />
+				<FechaPermanencia></FechaPermanencia>
+				<NumeroReestructuraciones></NumeroReestructuraciones>
+				<NaturalezaReestructuracion></NaturalezaReestructuracion>
+				<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+				<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+				<TipoPago />
+				<EstadoTitular>NORM</EstadoTitular>
+				<NumeroCuotasPactadas />
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<Reestructurado />
+			</Obligacion>
+		</SectorFinancieroExtinguidas>
+		<SectorRealAlDia>
+			<Obligacion>
+				<PaqueteInformacion>0012</PaqueteInformacion>
+				<IdentificadorLinea>213039092</IdentificadorLinea>
+				<TipoContrato>CRE</TipoContrato>
+				<EstadoContrato>VIGE</EstadoContrato>
+				<TipoEntidad>CPMM</TipoEntidad>
+				<NombreEntidad>TELMEX COLOMBIA S.A.</NombreEntidad>
+				<Ciudad>BOGOTA</Ciudad>
+				<Sucursal>BOGOTA</Sucursal>
+				<NumeroObligacion>425885</NumeroObligacion>
+				<Calidad>PRIN</Calidad>
+				<EstadoObligacion>VIGE</EstadoObligacion>
+				<LineaCredito>FITC</LineaCredito>
+				<Periodicidad>MEN</Periodicidad>
+				<FechaApertura>07/12/2019</FechaApertura>
+				<FechaTerminacion>31/12/2023</FechaTerminacion>
+				<ValorInicial>329</ValorInicial>
+				<SaldoObligacion>148</SaldoObligacion>
+				<ValorMora>0</ValorMora>
+				<ValorCuota>31</ValorCuota>
+				<CuotasCanceladas>0</CuotasCanceladas>
+				<MoraMaxima></MoraMaxima>
+				<Comportamientos>| | | | | | | | | | | | | |N |N |N |N |N |N |N |N |N |N |</Comportamientos>
+				<ParticipacionDeuda>100</ParticipacionDeuda>
+				<FechaCorte>31/08/2020</FechaCorte>
+				<ModoExtincion></ModoExtincion>
+				<FechaPago></FechaPago>
+				<FechaPermanencia></FechaPermanencia>
+				<ChequesDevueltos></ChequesDevueltos>
+				<Plazo>OTRO</Plazo>
+				<DiasCartera></DiasCartera>
+				<TipoPago>VOL</TipoPago>
+				<EstadoTitular />
+				<NumeroCuotasPactadas>12</NumeroCuotasPactadas>
+				<NumeroCuotasMora>0</NumeroCuotasMora>
+				<ValorCargoFijo>31</ValorCargoFijo>
+				<ClausulaPermanencia>0</ClausulaPermanencia>
+				<Reestructurado>NO</Reestructurado>
+				<Vigencia>IND</Vigencia>
+				<NumeroMesesContrato>0</NumeroMesesContrato>
+				<NumeroMesesClausula>0</NumeroMesesClausula>
+			</Obligacion>
+		</SectorRealAlDia>
+		<Endeudamiento>
+			<EncabezadoEndeudamiento>
+				<NumeroEntidadesTrimestreI>0</NumeroEntidadesTrimestreI>
+				<FechaTrimestreI>31-03-2019</FechaTrimestreI>
+				<NumeroEntidadesTrimestreII>1</NumeroEntidadesTrimestreII>
+				<FechaTrimestreII>30-06-2019</FechaTrimestreII>
+				<NumeroEntidadesTrimestreIII>2</NumeroEntidadesTrimestreIII>
+				<FechaTrimestreIII>30-09-2019</FechaTrimestreIII>
+				<NumeroComprasTrimestreI>0</NumeroComprasTrimestreI>
+				<NumeroComprasTrimestreII>0</NumeroComprasTrimestreII>
+				<NumeroComprasTrimestreIII>0</NumeroComprasTrimestreIII>
+				<NumeroReestructuracionesTrimestreI>0</NumeroReestructuracionesTrimestreI>
+				<NumeroReestructuracionesTrimestreII>0</NumeroReestructuracionesTrimestreII>
+				<NumeroReestructuracionesTrimestreIII>0</NumeroReestructuracionesTrimestreIII>
+				<NumeroCastigosTrimestreI>0</NumeroCastigosTrimestreI>
+				<NumeroCastigosTrimestreII>0</NumeroCastigosTrimestreII>
+				<NumeroCastigosTrimestreIII>0</NumeroCastigosTrimestreIII>
+			</EncabezadoEndeudamiento>
+			<EndeudamientoTrimII>
+				<Endeudamiento81>
+					<Calificacion>B</Calificacion>
+					<TipoModena>M/L</TipoModena>
+					<NumeroOperacionesComercial>0</NumeroOperacionesComercial>
+					<NumeroOperacionesConsumo>1</NumeroOperacionesConsumo>
+					<NumeroOperacionesVivienda>0</NumeroOperacionesVivienda>
+					<NumeroOperacionesMicrocredito>0</NumeroOperacionesMicrocredito>
+					<ValorDeudaComercial>0</ValorDeudaComercial>
+					<ValorDeudaConsumo>1.724</ValorDeudaConsumo>
+					<ValorDeudaVivienda>0</ValorDeudaVivienda>
+					<ValorDeudaMicrocredito>0</ValorDeudaMicrocredito>
+					<Total>1.724</Total>
+					<ParticipacionTotalDeudas>100.</ParticipacionTotalDeudas>
+					<CubrimientoGarantiaComercial></CubrimientoGarantiaComercial>
+					<CubrimientoGarantiaConsumo>.0</CubrimientoGarantiaConsumo>
+					<CubrimientoGarantiaVivienda></CubrimientoGarantiaVivienda>
+					<CubrimientoGarantiaMicrocredito></CubrimientoGarantiaMicrocredito>
+				</Endeudamiento81>
+				<Endeudamiento81>
+					<Calificacion>TOT</Calificacion>
+					<TipoModena></TipoModena>
+					<NumeroOperacionesComercial>0</NumeroOperacionesComercial>
+					<NumeroOperacionesConsumo>1</NumeroOperacionesConsumo>
+					<NumeroOperacionesVivienda>0</NumeroOperacionesVivienda>
+					<NumeroOperacionesMicrocredito>0</NumeroOperacionesMicrocredito>
+					<ValorDeudaComercial>0</ValorDeudaComercial>
+					<ValorDeudaConsumo>1.724</ValorDeudaConsumo>
+					<ValorDeudaVivienda>0</ValorDeudaVivienda>
+					<ValorDeudaMicrocredito>0</ValorDeudaMicrocredito>
+					<Total>1.724</Total>
+					<ParticipacionTotalDeudas>100</ParticipacionTotalDeudas>
+					<CubrimientoGarantiaComercial>.0</CubrimientoGarantiaComercial>
+					<CubrimientoGarantiaConsumo>.0</CubrimientoGarantiaConsumo>
+					<CubrimientoGarantiaVivienda>.0</CubrimientoGarantiaVivienda>
+					<CubrimientoGarantiaMicrocredito>.0</CubrimientoGarantiaMicrocredito>
+				</Endeudamiento81>
+				<Endeudamiento81>
+					<Calificacion></Calificacion>
+					<TipoModena>M/L</TipoModena>
+					<NumeroOperacionesComercial>0</NumeroOperacionesComercial>
+					<NumeroOperacionesConsumo>1</NumeroOperacionesConsumo>
+					<NumeroOperacionesVivienda>0</NumeroOperacionesVivienda>
+					<NumeroOperacionesMicrocredito>0</NumeroOperacionesMicrocredito>
+					<ValorDeudaComercial>0</ValorDeudaComercial>
+					<ValorDeudaConsumo>1.724</ValorDeudaConsumo>
+					<ValorDeudaVivienda>0</ValorDeudaVivienda>
+					<ValorDeudaMicrocredito>0</ValorDeudaMicrocredito>
+					<Total>1.724</Total>
+					<ParticipacionTotalDeudas>100.</ParticipacionTotalDeudas>
+					<CubrimientoGarantiaComercial>.0</CubrimientoGarantiaComercial>
+					<CubrimientoGarantiaConsumo>.0</CubrimientoGarantiaConsumo>
+					<CubrimientoGarantiaVivienda>.0</CubrimientoGarantiaVivienda>
+					<CubrimientoGarantiaMicrocredito>.0</CubrimientoGarantiaMicrocredito>
+				</Endeudamiento81>
+				<Endeudamiento82>
+					<TipoMoneda>M/L</TipoMoneda>
+					<NumeroContingencias></NumeroContingencias>
+					<ValorContingencias>0</ValorContingencias>
+					<CuotaEsperada>0</CuotaEsperada>
+					<CumplimientoCuota></CumplimientoCuota>
+				</Endeudamiento82>
+				<Endeudamiento82>
+					<TipoMoneda>M/E</TipoMoneda>
+					<NumeroContingencias></NumeroContingencias>
+					<ValorContingencias>0</ValorContingencias>
+					<CuotaEsperada>0</CuotaEsperada>
+					<CumplimientoCuota></CumplimientoCuota>
+				</Endeudamiento82>
+				<Endeudamiento82>
+					<TipoMoneda>TOT</TipoMoneda>
+					<NumeroContingencias></NumeroContingencias>
+					<ValorContingencias>0</ValorContingencias>
+					<CuotaEsperada>0</CuotaEsperada>
+					<CumplimientoCuota></CumplimientoCuota>
+				</Endeudamiento82>
+				<Endeudamiento83>
+					<TipoEntidad>BCO</TipoEntidad>
+					<NombreEntidad>COLPATRIA RED M</NombreEntidad>
+					<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+					<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+					<TipoFideicomiso></TipoFideicomiso>
+					<NumeroFideicomiso></NumeroFideicomiso>
+					<ModalidadCredito>COTC</ModalidadCredito>
+					<Calificacion>B</Calificacion>
+					<TipoMoneda>M/L</TipoMoneda>
+					<NumeroOperadores>1</NumeroOperadores>
+					<ValorDeuda>1.724</ValorDeuda>
+					<ParticipacionTotalDeudas>100.</ParticipacionTotalDeudas>
+					<CubrimientoGarantia>.0</CubrimientoGarantia>
+					<TipoGarantia>OSIN</TipoGarantia>
+					<FechaUltimoAvaluo></FechaUltimoAvaluo>
+					<CuotaEsperada>0</CuotaEsperada>
+					<CumplimientoCuota>.00</CumplimientoCuota>
+				</Endeudamiento83>
+			</EndeudamientoTrimII>
+			<EndeudamientoTrimIII>
+				<Endeudamiento91>
+					<Calificacion>A</Calificacion>
+					<TipoModena>M/L</TipoModena>
+					<NumeroOperacionesComercial>0</NumeroOperacionesComercial>
+					<NumeroOperacionesConsumo>1</NumeroOperacionesConsumo>
+					<NumeroOperacionesVivienda>0</NumeroOperacionesVivienda>
+					<NumeroOperacionesMicrocredito>0</NumeroOperacionesMicrocredito>
+					<ValorDeudaComercial>0</ValorDeudaComercial>
+					<ValorDeudaConsumo>1.629</ValorDeudaConsumo>
+					<ValorDeudaVivienda>0</ValorDeudaVivienda>
+					<ValorDeudaMicrocredito>0</ValorDeudaMicrocredito>
+					<Total>1.629</Total>
+					<ParticipacionTotalDeudas>22.6</ParticipacionTotalDeudas>
+					<CubrimientoGarantiaComercial></CubrimientoGarantiaComercial>
+					<CubrimientoGarantiaConsumo>.0</CubrimientoGarantiaConsumo>
+					<CubrimientoGarantiaVivienda></CubrimientoGarantiaVivienda>
+					<CubrimientoGarantiaMicrocredito></CubrimientoGarantiaMicrocredito>
+				</Endeudamiento91>
+				<Endeudamiento91>
+					<Calificacion>B</Calificacion>
+					<TipoModena>M/L</TipoModena>
+					<NumeroOperacionesComercial>0</NumeroOperacionesComercial>
+					<NumeroOperacionesConsumo>1</NumeroOperacionesConsumo>
+					<NumeroOperacionesVivienda>0</NumeroOperacionesVivienda>
+					<NumeroOperacionesMicrocredito>0</NumeroOperacionesMicrocredito>
+					<ValorDeudaComercial>0</ValorDeudaComercial>
+					<ValorDeudaConsumo>5.572</ValorDeudaConsumo>
+					<ValorDeudaVivienda>0</ValorDeudaVivienda>
+					<ValorDeudaMicrocredito>0</ValorDeudaMicrocredito>
+					<Total>5.572</Total>
+					<ParticipacionTotalDeudas>77.3</ParticipacionTotalDeudas>
+					<CubrimientoGarantiaComercial></CubrimientoGarantiaComercial>
+					<CubrimientoGarantiaConsumo>.0</CubrimientoGarantiaConsumo>
+					<CubrimientoGarantiaVivienda></CubrimientoGarantiaVivienda>
+					<CubrimientoGarantiaMicrocredito></CubrimientoGarantiaMicrocredito>
+				</Endeudamiento91>
+				<Endeudamiento91>
+					<Calificacion>TOT</Calificacion>
+					<TipoModena></TipoModena>
+					<NumeroOperacionesComercial>0</NumeroOperacionesComercial>
+					<NumeroOperacionesConsumo>2</NumeroOperacionesConsumo>
+					<NumeroOperacionesVivienda>0</NumeroOperacionesVivienda>
+					<NumeroOperacionesMicrocredito>0</NumeroOperacionesMicrocredito>
+					<ValorDeudaComercial>0</ValorDeudaComercial>
+					<ValorDeudaConsumo>7.201</ValorDeudaConsumo>
+					<ValorDeudaVivienda>0</ValorDeudaVivienda>
+					<ValorDeudaMicrocredito>0</ValorDeudaMicrocredito>
+					<Total>7.201</Total>
+					<ParticipacionTotalDeudas>100</ParticipacionTotalDeudas>
+					<CubrimientoGarantiaComercial>.0</CubrimientoGarantiaComercial>
+					<CubrimientoGarantiaConsumo>.0</CubrimientoGarantiaConsumo>
+					<CubrimientoGarantiaVivienda>.0</CubrimientoGarantiaVivienda>
+					<CubrimientoGarantiaMicrocredito>.0</CubrimientoGarantiaMicrocredito>
+				</Endeudamiento91>
+				<Endeudamiento91>
+					<Calificacion></Calificacion>
+					<TipoModena>M/L</TipoModena>
+					<NumeroOperacionesComercial>0</NumeroOperacionesComercial>
+					<NumeroOperacionesConsumo>2</NumeroOperacionesConsumo>
+					<NumeroOperacionesVivienda>0</NumeroOperacionesVivienda>
+					<NumeroOperacionesMicrocredito>0</NumeroOperacionesMicrocredito>
+					<ValorDeudaComercial>0</ValorDeudaComercial>
+					<ValorDeudaConsumo>7.201</ValorDeudaConsumo>
+					<ValorDeudaVivienda>0</ValorDeudaVivienda>
+					<ValorDeudaMicrocredito>0</ValorDeudaMicrocredito>
+					<Total>7.201</Total>
+					<ParticipacionTotalDeudas>99.9</ParticipacionTotalDeudas>
+					<CubrimientoGarantiaComercial>.0</CubrimientoGarantiaComercial>
+					<CubrimientoGarantiaConsumo>.0</CubrimientoGarantiaConsumo>
+					<CubrimientoGarantiaVivienda>.0</CubrimientoGarantiaVivienda>
+					<CubrimientoGarantiaMicrocredito>.0</CubrimientoGarantiaMicrocredito>
+				</Endeudamiento91>
+				<Endeudamiento92>
+					<TipoMoneda>M/L</TipoMoneda>
+					<NumeroContingencias></NumeroContingencias>
+					<ValorContingencias>0</ValorContingencias>
+					<CuotaEsperada>0</CuotaEsperada>
+					<CumplimientoCuota></CumplimientoCuota>
+				</Endeudamiento92>
+				<Endeudamiento92>
+					<TipoMoneda>M/E</TipoMoneda>
+					<NumeroContingencias></NumeroContingencias>
+					<ValorContingencias>0</ValorContingencias>
+					<CuotaEsperada>0</CuotaEsperada>
+					<CumplimientoCuota></CumplimientoCuota>
+				</Endeudamiento92>
+				<Endeudamiento92>
+					<TipoMoneda>TOT</TipoMoneda>
+					<NumeroContingencias></NumeroContingencias>
+					<ValorContingencias>0</ValorContingencias>
+					<CuotaEsperada>0</CuotaEsperada>
+					<CumplimientoCuota></CumplimientoCuota>
+				</Endeudamiento92>
+				<Endeudamiento93>
+					<TipoEntidad>BCO</TipoEntidad>
+					<NombreEntidad>DE BOGOTA</NombreEntidad>
+					<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+					<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+					<TipoFideicomiso></TipoFideicomiso>
+					<NumeroFideicomiso></NumeroFideicomiso>
+					<ModalidadCredito>COOT</ModalidadCredito>
+					<Calificacion>B</Calificacion>
+					<TipoMoneda>M/L</TipoMoneda>
+					<NumeroOperadores>1</NumeroOperadores>
+					<ValorDeuda>5.572</ValorDeuda>
+					<ParticipacionTotalDeudas>77.4</ParticipacionTotalDeudas>
+					<CubrimientoGarantia>.0</CubrimientoGarantia>
+					<TipoGarantia>OSIN</TipoGarantia>
+					<FechaUltimoAvaluo></FechaUltimoAvaluo>
+					<CuotaEsperada>0</CuotaEsperada>
+					<CumplimientoCuota>.00</CumplimientoCuota>
+				</Endeudamiento93>
+				<Endeudamiento93>
+					<TipoEntidad>BCO</TipoEntidad>
+					<NombreEntidad>COLPATRIA RED M</NombreEntidad>
+					<TipoEntidadOriginadoraCartera></TipoEntidadOriginadoraCartera>
+					<EntidadOriginadoraCartera></EntidadOriginadoraCartera>
+					<TipoFideicomiso></TipoFideicomiso>
+					<NumeroFideicomiso></NumeroFideicomiso>
+					<ModalidadCredito>COTC</ModalidadCredito>
+					<Calificacion>A</Calificacion>
+					<TipoMoneda>M/L</TipoMoneda>
+					<NumeroOperadores>1</NumeroOperadores>
+					<ValorDeuda>1.629</ValorDeuda>
+					<ParticipacionTotalDeudas>22.6</ParticipacionTotalDeudas>
+					<CubrimientoGarantia>.0</CubrimientoGarantia>
+					<TipoGarantia>OSIN</TipoGarantia>
+					<FechaUltimoAvaluo></FechaUltimoAvaluo>
+					<CuotaEsperada>0</CuotaEsperada>
+					<CumplimientoCuota>.00</CumplimientoCuota>
+				</Endeudamiento93>
+			</EndeudamientoTrimIII>
+		</Endeudamiento>
+		<HuellaConsulta>
+			<Consulta>
+				<FechaConsulta>20/10/2021</FechaConsulta>
+				<NombreTipoEntidad>APCT</NombreTipoEntidad>
+				<NombreEntidad>KREDIT PLUS S.A.S.</NombreEntidad>
+				<Sucursal>CALI</Sucursal>
+				<Ciudad>CALI</Ciudad>
+				<MotivoConsulta>OTRO</MotivoConsulta>
+				<CodigoTipoEntidad>150</CodigoTipoEntidad>
+				<CodigoEntidad>66</CodigoEntidad>
+			</Consulta>
+			<Consulta>
+				<FechaConsulta>23/07/2021</FechaConsulta>
+				<NombreTipoEntidad>APCT</NombreTipoEntidad>
+				<NombreEntidad>KREDIT PLUS S.A.S.</NombreEntidad>
+				<Sucursal>CALI</Sucursal>
+				<Ciudad>CALI</Ciudad>
+				<MotivoConsulta>OTRO</MotivoConsulta>
+				<CodigoTipoEntidad>150</CodigoTipoEntidad>
+				<CodigoEntidad>66</CodigoEntidad>
+			</Consulta>
+			<Consulta>
+				<FechaConsulta>02/06/2021</FechaConsulta>
+				<NombreTipoEntidad>APCT</NombreTipoEntidad>
+				<NombreEntidad>KREDIT PLUS S.A.S.</NombreEntidad>
+				<Sucursal>CALI</Sucursal>
+				<Ciudad>CALI</Ciudad>
+				<MotivoConsulta>OTRO</MotivoConsulta>
+				<CodigoTipoEntidad>150</CodigoTipoEntidad>
+				<CodigoEntidad>66</CodigoEntidad>
+			</Consulta>
+			<Consulta>
+				<FechaConsulta>01/06/2021</FechaConsulta>
+				<NombreTipoEntidad>APCT</NombreTipoEntidad>
+				<NombreEntidad>KREDIT PLUS S.A.S.</NombreEntidad>
+				<Sucursal>CALI</Sucursal>
+				<Ciudad>CALI</Ciudad>
+				<MotivoConsulta>OTRO</MotivoConsulta>
+				<CodigoTipoEntidad>150</CodigoTipoEntidad>
+				<CodigoEntidad>66</CodigoEntidad>
+			</Consulta>
+		</HuellaConsulta>
+	</Tercero>
+</CIFIN>
