@@ -1,0 +1,88 @@
+version: '3'
+
+services:
+    nginx:
+        image: stenfrank/nginx:1.3
+        working_dir: /var/www/html
+        ports:
+            - "8001:80"
+        volumes:
+            - ./:/var/www/html
+            - ./docker/nginx/sites-available:/etc/nginx/sites-available
+        networks:
+            - seas_bancaplus
+        depends_on:
+            - php
+    php:
+        container_name: php-seas
+        user: "1000"
+        build:
+            context: ./docker/php/
+        working_dir: /var/www/html
+        env_file:
+            - .env
+        volumes:
+            - ./:/var/www/html
+        networks:
+            - seas_bancaplus
+        depends_on:
+            - database
+    database:
+        image: mcr.microsoft.com/mssql/server:2022-CU12-ubuntu-22.04
+        container_name: db-seas
+        hostname: seas-mssql
+        networks:
+            - seas_bancaplus
+        environment:
+            - ACCEPT_EULA=Y
+            - MSSQL_SA_PASSWORD=${DB_PASSWORD}
+            - MSSQL_PID=Developer
+            # - MSSQL_DATA_DIR=/var/opt/sqlserver/data
+            # - MSSQL_LOG_DIR=/var/opt/sqlserver/log
+            - MSSQL_BACKUP_DIR=/var/opt/sqlserver/backups
+            - MSSQL_LCID=1033
+            - TZ=Etc/UTC
+        ports:
+            - 1433:1433
+        healthcheck:
+            test: /opt/mssql-tools/bin/sqlcmd -S seas-mssql -U sa -P '${DB_PASSWORD}' -Q "SELECT 1" -b -o /dev/null
+            interval: 10s
+            timeout: 1s
+            retries: 3
+            start_period: 30s
+        volumes:
+            - seasdata:/var/opt/sqlserver
+            # - ./data/mssql/log:/var/opt/mssql/log
+            # - ./docker/mssql/backups:/var/opt/sqlserver/backups
+
+    # mssql-bacpac:
+    #     image: mcr.microsoft.com/dotnet/sdk:8.0
+    #     command: >
+    #         /bin/bash -c "
+    #         echo 'Installing sqlpackage tool...';
+    #         export PATH=/root/.dotnet/tools:/usr/share/dotnet:/usr/bin;
+    #         dotnet tool update microsoft.sqlpackage --global --verbosity minimal;
+
+    #         echo 'Importing bacpac...';
+    #         sqlpackage /Action:Import
+    #         /TargetDatabaseName:seas
+    #         /TargetServerName:seas-mssql
+    #         /TargetUser:sa
+    #         /TargetPassword:'${DB_PASSWORD}'
+    #         /SourceFile:/tmp/seas.bacpac
+    #         /TargetTrustServerCertificate:true
+    #         /TargetTimeout:5;"
+    #     depends_on:
+    #         database:
+    #             condition: service_healthy
+    #     volumes:
+    #         - ./docker/mssql/backups/seas.bacpac:/tmp/seas.bacpac
+    #     networks:
+    #         - seas_bancaplus
+
+networks:
+    seas_bancaplus:
+        driver: "bridge"
+
+volumes:
+    seasdata:
