@@ -3,7 +3,7 @@
     //$serverName = "serverName\sqlexpress"; //serverName\instanceName
     $serverName = "database";
     $user = "sa";
-    $passwd = 'Password12345';
+    $passwd = $_ENV['DB_PASSWORD'];
     $db = "seas";
     // Puesto que no se han especificado UID ni PWD en el array  $connectionInfo,
     // La conexión se intentará utilizando la autenticación Windows.

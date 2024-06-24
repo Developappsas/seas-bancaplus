@@ -4,7 +4,7 @@
     error_reporting(E_ALL);
     $serverName = "database";
     $user = "sa";
-    $passwd = 'Password12345';
+    $passwd = $_ENV['DB_PASSWORD'];
     $db = "seas";
     $connectionInfo = array("Database" => $db, "UID" => $user, "PWD" => $passwd, "CharacterSet" => "UTF-8", "ReturnDatesAsStrings" => true, "LoginTimeout" => 30, "Encrypt" => 0);
 	$link = sqlsrv_connect($serverName, $connectionInfo);
