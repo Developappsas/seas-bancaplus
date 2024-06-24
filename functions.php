@@ -197,11 +197,11 @@ function conectar() {
 }
 
 function conectar_utf() {
-	$serverName = "tcp:az-ias-use2-prd-exp.database.windows.net,1433";
-    $user = "seas";
-    $passwd = "cDrTrFgxSIF8G1996";
-    $db = "BDSeasBancaPlus";
-    $connectionInfo = array("Database" => $db, "UID" => $user, "PWD" => $passwd, "CharacterSet" => "UTF-8", "ReturnDatesAsStrings" => true, "LoginTimeout" => 30, "Encrypt" => 1);
+	$serverName = "database";
+    $user = "sa";
+    $passwd = 'Password12345';
+    $db = "seas";
+    $connectionInfo = array("Database" => $db, "UID" => $user, "PWD" => $passwd, "CharacterSet" => "UTF-8", "ReturnDatesAsStrings" => true, "LoginTimeout" => 30, "Encrypt" => 0);
 	$link = sqlsrv_connect($serverName, $connectionInfo);
 	if ($link) {
 		//echo "Conexión establecida.";
@@ -219,11 +219,11 @@ function conectar_utf() {
 }
 
 function conectar_consultas_externas() {
-	$serverName = "tcp:az-ias-use2-prd-exp.database.windows.net,1433";
-    $user = "seas";
-    $passwd = "cDrTrFgxSIF8G1996";
-    $db = "BDSeasBancaPlus";
-    $connectionInfo = array("Database" => $db, "UID" => $user, "PWD" => $passwd, "CharacterSet" => "UTF-8", "ReturnDatesAsStrings" => true, "LoginTimeout" => 30, "Encrypt" => 1);
+	$serverName = "database";
+    $user = "sa";
+    $passwd = 'Password12345';
+    $db = "seas";
+    $connectionInfo = array("Database" => $db, "UID" => $user, "PWD" => $passwd, "CharacterSet" => "UTF-8", "ReturnDatesAsStrings" => true, "LoginTimeout" => 30, "Encrypt" => 0);
 	$link = sqlsrv_connect($serverName, $connectionInfo);
 	if ($link) {
 		//echo "Conexión establecida.";

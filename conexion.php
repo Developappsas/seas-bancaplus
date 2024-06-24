@@ -1,13 +1,13 @@
 <?php
 	header('Content-Type: text/html; charset=utf-8');
     //$serverName = "serverName\sqlexpress"; //serverName\instanceName
-    $serverName = "tcp:az-ias-use-dev-qa-engine-k.database.windows.net,1433";
-    $user = "seas_kredit";
-    $passwd = "cDrTrFgx%SIF#*8G*1996";
-    $db = "SEAS_09_05_23";
+    $serverName = "database";
+    $user = "sa";
+    $passwd = 'Password12345';
+    $db = "seas";
     // Puesto que no se han especificado UID ni PWD en el array  $connectionInfo,
     // La conexión se intentará utilizando la autenticación Windows.
-    $connectionInfo = array("Database" => $db, "UID" => $user, "PWD" => $passwd, "CharacterSet" => "UTF-8", "ReturnDatesAsStrings" => true, "LoginTimeout" => 30, "Encrypt" => 1);
+    $connectionInfo = array("Database" => $db, "UID" => $user, "PWD" => $passwd, "CharacterSet" => "UTF-8", "ReturnDatesAsStrings" => true, "LoginTimeout" => 30, "Encrypt" => 0);
 	$link = sqlsrv_connect($serverName, $connectionInfo);
 	if ($link) {
 		echo "Conexión establecida.";

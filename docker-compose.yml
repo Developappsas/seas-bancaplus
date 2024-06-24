@@ -69,14 +69,14 @@ services:
             /TargetServerName:seas-mssql
             /TargetUser:sa
             /TargetPassword:'${DB_PASSWORD}'
-            /SourceFile:/tmp/seas.bacpac
+            /SourceFile:/tmp/new_seas.bacpac
             /TargetTrustServerCertificate:true
             /TargetTimeout:5;"
         depends_on:
             database:
                 condition: service_healthy
         volumes:
-            - ./docker/mssql/backups/seas.bacpac:/tmp/seas.bacpac
+            - ./docker/mssql/backups/new_seas.bacpac:/tmp/new_seas.bacpac
         networks:
             - seas_bancaplus
 
