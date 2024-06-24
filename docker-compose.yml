@@ -51,34 +51,34 @@ services:
             retries: 3
             start_period: 30s
         volumes:
-            - seasdata:/var/opt/sqlserver
+            - seasdata:/var/opt/mssql
             # - ./data/mssql/log:/var/opt/mssql/log
-            # - ./docker/mssql/backups:/var/opt/sqlserver/backups
+            - ./docker/mssql/backups:/var/opt/sqlserver/backups
 
-    # mssql-bacpac:
-    #     image: mcr.microsoft.com/dotnet/sdk:8.0
-    #     command: >
-    #         /bin/bash -c "
-    #         echo 'Installing sqlpackage tool...';
-    #         export PATH=/root/.dotnet/tools:/usr/share/dotnet:/usr/bin;
-    #         dotnet tool update microsoft.sqlpackage --global --verbosity minimal;
+    mssql-bacpac:
+        image: mcr.microsoft.com/dotnet/sdk:8.0
+        command: >
+            /bin/bash -c "
+            echo 'Installing sqlpackage tool...';
+            export PATH=/root/.dotnet/tools:/usr/share/dotnet:/usr/bin;
+            dotnet tool update microsoft.sqlpackage --global --verbosity minimal;
 
-    #         echo 'Importing bacpac...';
-    #         sqlpackage /Action:Import
-    #         /TargetDatabaseName:seas
-    #         /TargetServerName:seas-mssql
-    #         /TargetUser:sa
-    #         /TargetPassword:'${DB_PASSWORD}'
-    #         /SourceFile:/tmp/seas.bacpac
-    #         /TargetTrustServerCertificate:true
-    #         /TargetTimeout:5;"
-    #     depends_on:
-    #         database:
-    #             condition: service_healthy
-    #     volumes:
-    #         - ./docker/mssql/backups/seas.bacpac:/tmp/seas.bacpac
-    #     networks:
-    #         - seas_bancaplus
+            echo 'Importing bacpac...';
+            sqlpackage /Action:Import
+            /TargetDatabaseName:seas
+            /TargetServerName:seas-mssql
+            /TargetUser:sa
+            /TargetPassword:'${DB_PASSWORD}'
+            /SourceFile:/tmp/seas.bacpac
+            /TargetTrustServerCertificate:true
+            /TargetTimeout:5;"
+        depends_on:
+            database:
+                condition: service_healthy
+        volumes:
+            - ./docker/mssql/backups/seas.bacpac:/tmp/seas.bacpac
+        networks:
+            - seas_bancaplus
 
 networks:
     seas_bancaplus:
