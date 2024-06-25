@@ -55,30 +55,33 @@ services:
             # - ./data/mssql/log:/var/opt/mssql/log
             - ./docker/mssql/backups:/var/opt/sqlserver/backups
 
-    mssql-bacpac:
-        image: mcr.microsoft.com/dotnet/sdk:8.0
-        command: >
-            /bin/bash -c "
-            echo 'Installing sqlpackage tool...';
-            export PATH=/root/.dotnet/tools:/usr/share/dotnet:/usr/bin;
-            dotnet tool update microsoft.sqlpackage --global --verbosity minimal;
+    ###############################
+    # DO NOT UNCOMMENT THIS SERVICE UNLESS YOU KNOW WHAT YOU ARE DOING
+    ###############################
+    # mssql-bacpac:
+    #     image: mcr.microsoft.com/dotnet/sdk:8.0
+    #     command: >
+    #         /bin/bash -c "
+    #         echo 'Installing sqlpackage tool...';
+    #         export PATH=/root/.dotnet/tools:/usr/share/dotnet:/usr/bin;
+    #         dotnet tool update microsoft.sqlpackage --global --verbosity minimal;
 
-            echo 'Importing bacpac...';
-            sqlpackage /Action:Import
-            /TargetDatabaseName:seas
-            /TargetServerName:seas-mssql
-            /TargetUser:sa
-            /TargetPassword:'${DB_PASSWORD}'
-            /SourceFile:/tmp/new_seas.bacpac
-            /TargetTrustServerCertificate:true
-            /TargetTimeout:5;"
-        depends_on:
-            database:
-                condition: service_healthy
-        volumes:
-            - ./docker/mssql/backups/new_seas.bacpac:/tmp/new_seas.bacpac
-        networks:
-            - seas_bancaplus
+    #         echo 'Importing bacpac...';
+    #         sqlpackage /Action:Import
+    #         /TargetDatabaseName:seas
+    #         /TargetServerName:seas-mssql
+    #         /TargetUser:sa
+    #         /TargetPassword:'${DB_PASSWORD}'
+    #         /SourceFile:/tmp/new_seas.bacpac
+    #         /TargetTrustServerCertificate:true
+    #         /TargetTimeout:5;"
+    #     depends_on:
+    #         database:
+    #             condition: service_healthy
+    #     volumes:
+    #         - ./docker/mssql/backups/new_seas.bacpac:/tmp/new_seas.bacpac
+    #     networks:
+    #         - seas_bancaplus
 
 networks:
     seas_bancaplus:
